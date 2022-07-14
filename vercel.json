@@ -1,0 +1,14 @@
+{
+  "env": {
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://cilistiapi.xyz/backend",
+    "NEXT_PUBLIC_SHOP_URL": "https://cilistia.com",
+    "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "123456"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://cilistiapi.xyz/backend",
+      "NEXT_PUBLIC_SHOP_URL": "https://cilistia.com",
+      "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "123456"
+    }
+  }
+}
